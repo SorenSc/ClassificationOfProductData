@@ -4029,7 +4029,7 @@
   "classOfPart" : "Hinterachse",
   "length" : null,
   "width" : null,
-  "thickness" : "16.5. 17"
+  "thickness" : "16.5"
 }, {
   "partNumber" : "402B0357",
   "classOfPart" : null,
@@ -4670,7 +4670,7 @@
   "partNumber" : "402B0222",
   "classOfPart" : "Vorderachse",
   "length" : null,
-  "width" : "63.5. 78",
+  "width" : "63.5",
   "thickness" : "17.5"
 }, {
   "partNumber" : "402B0711",
@@ -5613,7 +5613,7 @@
   "classOfPart" : "Hinterachse",
   "length" : null,
   "width" : "87.2",
-  "thickness" : "14.3. 14.5"
+  "thickness" : "14.3"
 }, {
   "partNumber" : "36670",
   "classOfPart" : null,
@@ -6254,7 +6254,7 @@
   "partNumber" : "16530",
   "classOfPart" : "Vorderachse",
   "length" : null,
-  "width" : "141.8. 147.3",
+  "width" : "141.8",
   "thickness" : "14.3"
 }, {
   "partNumber" : "37286",
@@ -7100,7 +7100,7 @@
   "partNumber" : "16583",
   "classOfPart" : "Hinterachse",
   "length" : null,
-  "width" : "111.5. 91",
+  "width" : "111.5",
   "thickness" : "15.5"
 }, {
   "partNumber" : "16995",
@@ -7195,7 +7195,7 @@
 }, {
   "partNumber" : "16774",
   "classOfPart" : "Hinterachse",
-  "length" : "105.9. 85.5",
+  "length" : "105.9",
   "width" : null,
   "thickness" : "15.5"
 }, {
@@ -8367,7 +8367,7 @@
   "classOfPart" : "Hinterachse",
   "length" : null,
   "width" : "110.7",
-  "thickness" : "15. 15.8"
+  "thickness" : "15"
 }, {
   "partNumber" : "SKBP-0011047",
   "classOfPart" : null,
@@ -9428,7 +9428,7 @@
   "partNumber" : "16492",
   "classOfPart" : "Vorderachse",
   "length" : null,
-  "width" : "155.2. 156.4",
+  "width" : "155.2",
   "thickness" : "20.3"
 }, {
   "partNumber" : "P 61 057",
@@ -9591,7 +9591,7 @@
   "classOfPart" : "Vorderachse",
   "length" : null,
   "width" : "136.5",
-  "thickness" : "16.5. 17.3"
+  "thickness" : "16.5"
 }, {
   "partNumber" : "SKBP-0010167",
   "classOfPart" : null,
@@ -9914,7 +9914,7 @@
   "partNumber" : "16427",
   "classOfPart" : "Vorderachse",
   "length" : null,
-  "width" : "155.4. 156.4",
+  "width" : "155.4",
   "thickness" : "18"
 }, {
   "partNumber" : "0 986 424 218",
@@ -10275,7 +10275,7 @@
   "classOfPart" : "Hinterachse",
   "length" : null,
   "width" : null,
-  "thickness" : "16.5. 17"
+  "thickness" : "16.5"
 }, {
   "partNumber" : "0 986 494 265",
   "classOfPart" : null,
@@ -10508,7 +10508,7 @@
   "partNumber" : "16463",
   "classOfPart" : "Vorderachse",
   "length" : null,
-  "width" : "91.6. 91.7",
+  "width" : "91.6",
   "thickness" : "17.7"
 }, {
   "partNumber" : "SKBP-0010311",
@@ -10893,7 +10893,7 @@
   "classOfPart" : "Vorderachse",
   "length" : null,
   "width" : "156.4",
-  "thickness" : "19.5. 20.3"
+  "thickness" : "19.5"
 }, {
   "partNumber" : "0 986 494 267",
   "classOfPart" : null,
@@ -11616,7 +11616,13 @@
   "thickness" : "17.3"
 }, {
   "partNumber" : "SKBP-0011416",
-  "classOfPart" : "Hinterachse, Vorderachse",
+  "classOfPart" : "Hinterachse",
+  "length" : "175",
+  "width" : null,
+  "thickness" : "22"
+}, {
+  "partNumber" : "SKBP-0011416",
+  "classOfPart" : "Vorderachse",
   "length" : "175",
   "width" : null,
   "thickness" : "22"
@@ -12093,7 +12099,7 @@
   "classOfPart" : "Hinterachse",
   "length" : null,
   "width" : "156.4",
-  "thickness" : "17.7. 18.5"
+  "thickness" : "17.7"
 }, {
   "partNumber" : "2342401",
   "classOfPart" : null,
@@ -12692,8 +12698,8 @@
   "partNumber" : "16504",
   "classOfPart" : "Vorderachse",
   "length" : null,
-  "width" : "155.2. 156.4",
-  "thickness" : "18.2. 19.7"
+  "width" : "155.2",
+  "thickness" : "18.2"
 }, {
   "partNumber" : "GDB1648",
   "classOfPart" : null,
@@ -12722,8 +12728,8 @@
   "partNumber" : "16462",
   "classOfPart" : "Vorderachse",
   "length" : null,
-  "width" : "155.2. 156.2",
-  "thickness" : "18.5. 19.8"
+  "width" : "155.2",
+  "thickness" : "18.5"
 }, {
   "partNumber" : "13.0460-7140.2",
   "classOfPart" : null,
@@ -13274,8 +13280,8 @@
   "partNumber" : "16999",
   "classOfPart" : "Vorderachse",
   "length" : null,
-  "width" : "63.5. 76.4",
-  "thickness" : "17. 18.5"
+  "width" : "63.5",
+  "thickness" : "17"
 }, {
   "partNumber" : "SKBP-0010136",
   "classOfPart" : "Vorderachse",
@@ -14156,7 +14162,7 @@
   "partNumber" : "SKBP-0010222",
   "classOfPart" : "Vorderachse",
   "length" : null,
-  "width" : "63.5. 78",
+  "width" : "63.5",
   "thickness" : "17.5"
 }, {
   "partNumber" : "SKBP-0011128",
@@ -14316,7 +14322,13 @@
   "thickness" : "17.8"
 }, {
   "partNumber" : "0 986 424 654",
-  "classOfPart" : "Hinterachse, Vorderachse",
+  "classOfPart" : "Hinterachse",
+  "length" : null,
+  "width" : "123",
+  "thickness" : "16.3"
+}, {
+  "partNumber" : "0 986 424 654",
+  "classOfPart" : "Vorderachse",
   "length" : null,
   "width" : "123",
   "thickness" : "16.3"
@@ -15146,7 +15158,7 @@
   "partNumber" : "16456",
   "classOfPart" : "Vorderachse",
   "length" : null,
-  "width" : "63.5. 78",
+  "width" : "63.5",
   "thickness" : "17.5"
 }, {
   "partNumber" : "SKBP-0011182",
@@ -20571,7 +20583,7 @@
   "classOfPart" : "Vorderachse",
   "length" : null,
   "width" : "127",
-  "thickness" : "16.6. 17.1"
+  "thickness" : "16.6"
 }, {
   "partNumber" : "36666",
   "classOfPart" : null,
