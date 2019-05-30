@@ -6,13 +6,24 @@ library(epiR)             # Analyse confusion matrix
 library(randomForest)     # Random forest algorithm
 library(caret)            # Confusion matrix
 library(class)            # Knn algorithm
+library(BaylorEdPsych)    # Little MCAR
 
-brakePads = fromJSON("C:\Users\Sören\Documents\ClassificationOfProductData\data.json", flatten=TRUE)
+brakePads = fromJSON("C:/Users/Sören/Documents/ClassificationOfProductData/data.json", flatten=TRUE)
 df = data.frame(brakePads) # Convert to data frame 
+head(df)
+df[,3:5] = sapply(df[,3:5], as.numeric)
+df[,2] = sapply(df[,2], as.factor)
+head(df)
 
 
+head(df[,3:5])
+LittleMCAR(df[,3:5])
+summary(df[,3:5])
+summary(EndersTable1_1)
 
-
+data(EndersTable1_1)
+head(EndersTable1_1)
+LittleMCAR(EndersTable1_1)
 
 
 
